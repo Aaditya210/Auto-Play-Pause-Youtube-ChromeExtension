@@ -29,4 +29,4 @@ Acknowledgments
 Thanks to the developers and contributors of open-source projects that made this extension possible.
 Special thanks to the users who provide feedback and help improve this extension.
 Contact
-For any questions or suggestions, feel free to open an issue in the repository or contact the maintainer at your-email@example.com.
+For any questions or suggestions, feel free to open an issue in the repository or contact the maintainer at your-aadityasardar912@gmail.com.
